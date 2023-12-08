@@ -1,0 +1,15 @@
+/home/roland/Codewars/C#/You_only_need_one_Beginner/bin/Debug/net7.0/You_only_need_one_Beginner
+/home/roland/Codewars/C#/You_only_need_one_Beginner/bin/Debug/net7.0/You_only_need_one_Beginner.deps.json
+/home/roland/Codewars/C#/You_only_need_one_Beginner/bin/Debug/net7.0/You_only_need_one_Beginner.runtimeconfig.json
+/home/roland/Codewars/C#/You_only_need_one_Beginner/bin/Debug/net7.0/You_only_need_one_Beginner.dll
+/home/roland/Codewars/C#/You_only_need_one_Beginner/bin/Debug/net7.0/You_only_need_one_Beginner.pdb
+/home/roland/Codewars/C#/You_only_need_one_Beginner/obj/Debug/net7.0/You_only_need_one_Beginner.csproj.AssemblyReference.cache
+/home/roland/Codewars/C#/You_only_need_one_Beginner/obj/Debug/net7.0/You_only_need_one_Beginner.GeneratedMSBuildEditorConfig.editorconfig
+/home/roland/Codewars/C#/You_only_need_one_Beginner/obj/Debug/net7.0/You_only_need_one_Beginner.AssemblyInfoInputs.cache
+/home/roland/Codewars/C#/You_only_need_one_Beginner/obj/Debug/net7.0/You_only_need_one_Beginner.AssemblyInfo.cs
+/home/roland/Codewars/C#/You_only_need_one_Beginner/obj/Debug/net7.0/You_only_need_one_Beginner.csproj.CoreCompileInputs.cache
+/home/roland/Codewars/C#/You_only_need_one_Beginner/obj/Debug/net7.0/You_only_need_one_Beginner.dll
+/home/roland/Codewars/C#/You_only_need_one_Beginner/obj/Debug/net7.0/refint/You_only_need_one_Beginner.dll
+/home/roland/Codewars/C#/You_only_need_one_Beginner/obj/Debug/net7.0/You_only_need_one_Beginner.pdb
+/home/roland/Codewars/C#/You_only_need_one_Beginner/obj/Debug/net7.0/You_only_need_one_Beginner.genruntimeconfig.cache
+/home/roland/Codewars/C#/You_only_need_one_Beginner/obj/Debug/net7.0/ref/You_only_need_one_Beginner.dll
